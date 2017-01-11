@@ -42,3 +42,4 @@ bin/config.json
 /node_modules
 /bin/parse-dashboard-config.json
 logs
+/Gemfile.lock
